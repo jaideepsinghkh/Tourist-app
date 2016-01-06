@@ -1,4 +1,4 @@
-Hello friends, this folder contains all the files pertaining to the backend of the project. It contains 2 files, namely :-
+Hello friends, this folder contains all the files pertaining to the backend of the project. It contains 3 files, namely :-
 
 1.) backend_ERD.png     - png file showing the ERD diagram of the backend of the application.
 2.) backend_ERD(HD).png - Higher resolution image of the same.
